@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\LT_HDT_VA_KTPM\CuoiKy\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\LT_HDT_VA_KTPM\CuoiKy\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.vcxproj.GenerateResource.cache
+C:\Users\DELL\Desktop\LT_HDT_VA_KTPM\CuoiKy\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.exe
+C:\Users\DELL\Desktop\LT_HDT_VA_KTPM\CuoiKy\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.Stardard.resources
+D:\hk1_nam3\LTHDT\men\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.vcxproj.AssemblyReference.cache
+D:\hk1_nam3\LTHDT\men\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.Stardard.resources
+D:\hk1_nam3\LTHDT\men\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.vcxproj.GenerateResource.cache
+D:\hk1_nam3\LTHDT\men\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.exe
+C:\Users\DELL\Desktop\LT_HDT_VA_KTPM\CuoiKy\Scientific_MQL\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.vcxproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\LT_HDT_VA_KTPM\CuoiKy\Scientific_MQL\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.Stardard.resources
+C:\Users\DELL\Desktop\LT_HDT_VA_KTPM\CuoiKy\Scientific_MQL\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.vcxproj.GenerateResource.cache
+C:\Users\DELL\Desktop\LT_HDT_VA_KTPM\CuoiKy\Scientific_MQL\ConvertUnitTest4\x64\Debug\ConvertUnitTest4.exe

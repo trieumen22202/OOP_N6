@@ -1,0 +1,86 @@
+  ConvertUnitTest4.Stardard.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly ConvertUnitTest4, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Net.Http, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class length: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getNameOfUnit(): PrivateScope, Public, HideBySig
+    setNameOfUnit(String): PrivateScope, Public, HideBySig
+    getValue(): PrivateScope, Public, HideBySig
+    setValue(Double): PrivateScope, Public, HideBySig
+    convertToMeters(String, Double): PrivateScope, Public, HideBySig
+    calculate(String, String, Double): PrivateScope, Public, HideBySig
+Class volume: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getNameOfUnit(): PrivateScope, Public, HideBySig
+    setNameOfUnit(String): PrivateScope, Public, HideBySig
+    getValue(): PrivateScope, Public, HideBySig
+    setValue(Double): PrivateScope, Public, HideBySig
+    convertToCubicMeter(String, Double): PrivateScope, Public, HideBySig
+    calculate(String, String, Double): PrivateScope, Public, HideBySig
+Class area: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getNameOfUnit(): PrivateScope, Public, HideBySig
+    setNameOfUnit(String): PrivateScope, Public, HideBySig
+    getValue(): PrivateScope, Public, HideBySig
+    setValue(Double): PrivateScope, Public, HideBySig
+    convertToSquareMeter(String, Double): PrivateScope, Public, HideBySig
+    calculate(String, String, Double): PrivateScope, Public, HideBySig
+Class weightAndMass: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getNameOfUnit(): PrivateScope, Public, HideBySig
+    setNameOfUnit(String): PrivateScope, Public, HideBySig
+    getValue(): PrivateScope, Public, HideBySig
+    setValue(Double): PrivateScope, Public, HideBySig
+    convertToGrams(String, Double): PrivateScope, Public, HideBySig
+    calculate(String, String, Double): PrivateScope, Public, HideBySig
+Class speed: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, Double): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getNameOfUnit(): PrivateScope, Public, HideBySig
+    setNameOfUnit(String): PrivateScope, Public, HideBySig
+    getValue(): PrivateScope, Public, HideBySig
+    setValue(Double): PrivateScope, Public, HideBySig
+    convertToMetersPerSecond(String, Double): PrivateScope, Public, HideBySig
+    calculate(String, String, Double): PrivateScope, Public, HideBySig
+Class Number: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getType(): PrivateScope, Public, HideBySig
+    setType(String): PrivateScope, Public, HideBySig
+    getValue(String): PrivateScope, Public, HideBySig
+    setValue(String, String): PrivateScope, Public, HideBySig
+    convert(String): PrivateScope, Public, HideBySig
+    shiftLeft(): PrivateScope, Public, HideBySig
+    shiftRight(): PrivateScope, Public, HideBySig
+Class Stardard_mode.Stardard: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Scientific_mode.Scientific: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
